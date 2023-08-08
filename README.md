@@ -1,14 +1,16 @@
 **StackTrek** - Lesson 2 Practice: HTML and CSS
 
-**Exercise:** 404 Error Page
+**Exercises:**
+
+- Bio Page
+- 404 Error Page
 
 **Student:** Chizaram Igolo
 
 **Live URLs:**
 
-**Bio Page**: https://bio-page-eight.vercel.app
-
-**404 Page**: https://bio-page-eight.vercel.app/404-page/404-page.html
+- **Bio Page**: https://bio-page-eight.vercel.app
+- **404 Page**: https://bio-page-eight.vercel.app/404-page/404-page.html
 
 ## To run
 
